@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hii mounisha
 How are you mouniusha
+=======
+hii mounisha
+>>>>>>> eb96d8dbb1a90be8016a0ee8dd841402fdf96796
+hiii dta sciemce ml project 
